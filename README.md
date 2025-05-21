@@ -1,5 +1,5 @@
-🍰 Delicious Cakes – Online Cake Ordering System
-Welcome to the Delicious Cakes web app – a simple PHP & MySQL-based platform to allow customers to place online cake orders quickly and easily.
+#🍰 Delicious Cakes – Online Cake Ordering System
+#Welcome to the Delicious Cakes web app – a simple PHP & MySQL-based platform to allow customers to place online cake orders quickly and easily.
 
 This project is designed for learning and demonstration purposes and includes frontend design, backend logic, and database connectivity.
 
