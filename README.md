@@ -102,15 +102,9 @@ http://localhost/delicious-cakes/order1.php
 ---
 
 ## 📸 Screenshots
-
-You can upload screenshots and embed them here, for example:
-
-```md
-![Home Page](screenshots/https://i.postimg.cc/cLqKYv5T/Screenshot-2025-05-21-160701.png)
-![Menu Page](screenshots/order-form.png)
-![Contact Page](screenshots/order-form.png)
-![Order Page](screenshots/order-form.png)
-```
+| Home Page                     | Menu Page                     | Contact Page                        | Order Page                      |
+| ----------------------------- | ----------------------------- | ----------------------------------- | ------------------------------- |
+| ![Home](https://i.postimg.cc/cLqKYv5T/Screenshot-2025-05-21-160701.png) | ![Menu](https://i.postimg.cc/kGj7hjxF/Screenshot-2025-05-21-160719.png) | ![Contact](https://i.postimg.cc/nhB6XRCR/Screenshot-2025-05-21-160726.png) | ![Order](https://i.postimg.cc/ZqJDCTkn/Screenshot-2025-05-21-160737.png) |
 
 ---
 
