@@ -106,6 +106,9 @@ http://localhost/delicious-cakes/order1.php
 You can upload screenshots and embed them here, for example:
 
 ```md
+![Home Page](screenshots/https://i.postimg.cc/cLqKYv5T/Screenshot-2025-05-21-160701.png)
+![Menu Page](screenshots/order-form.png)
+![Contact Page](screenshots/order-form.png)
 ![Order Page](screenshots/order-form.png)
 ```
 
